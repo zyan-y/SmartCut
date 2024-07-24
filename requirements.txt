@@ -1,0 +1,5 @@
+openpyxl
+pandas
+numpy
+primer3
+Biopython
