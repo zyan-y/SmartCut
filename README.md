@@ -1,4 +1,3 @@
-
 # SmartCut
 
 ## Overview
@@ -17,7 +16,7 @@ The algorithm has been tested and confirmed to work on the following platforms:
 
 ## Usage
 
-To use the SmartCut algorithm, run the `design_genome.py` script. This script applies the SmartCut algorithm to split the sequences of two chromosomes and two genomes.
+Run the `design_genome.py` script as an example. This script applies the SmartCut algorithm to split the sequences of chromosomes and genomes.
 
 ## Sequencing Results
 
