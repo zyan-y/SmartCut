@@ -1,5 +1,5 @@
 openpyxl
 pandas
 numpy
-primer3
+primer3-py
 Biopython
